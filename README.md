@@ -9,7 +9,7 @@
 			<a href="https://theproayush.github.io/coursera-assignments/module2-solution/index.html">Module 2</a>
 		</li>
 		<li>
-			<a href="https://theproayush.github.io/coursera-assignments/module3-solution/index.html"></a>
+			<a href="https://theproayush.github.io/coursera-assignments/module3-solution/index.html">Module 3</a>
 		</li>
 </body>
 </html>
