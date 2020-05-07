@@ -39,10 +39,8 @@ section {
 }
 
 #chicken {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	width: 100%;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	font-size: 125%;
@@ -53,10 +51,8 @@ section {
 }
 
 #beef {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	width: 100%;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	font-size: 125%;
@@ -67,10 +63,8 @@ section {
 }
 
 #sushi {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	width: 100%;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	font-size: 125%;
