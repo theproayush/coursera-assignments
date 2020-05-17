@@ -14,5 +14,8 @@
 		<li>
 			<a href="https://theproayush.github.io/coursera-assignments/module-4-solution/index.html">Module-4</a>
 		</li>
+		<li>
+			<a href="https://theproayush.github.io/coursera-assignments/module5-solution">Module-5</a>
+		</li>
 </body>
 </html>
