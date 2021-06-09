@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>Coursera-Assignemnets</h1>
-	<h2>HTML, CSS, JavaScript for Web Developers - Johns Hopkins University - Coursera</h2>
-	<p>This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera.</p>
+	<h1>Module Links</h1>
+	<h2>Restaurant website</h2>
+	<p>Contains all module 2,3,4,5</p>
 	<ul>Solution Links</ul>
 		<li>
 			<a href="https://theproayush.github.io/coursera-assignments/module2-solution/index.html">Module 2</a>
