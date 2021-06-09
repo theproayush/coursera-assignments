@@ -4,7 +4,7 @@
 	<h1>Module Links</h1>
 	<h2>Restaurant website</h2>
 	<p>Contains all module 2,3,4,5</p>
-	<ul>Solution Links</ul>
+	<ul>Links follow</ul>
 		<li>
 			<a href="https://theproayush.github.io/coursera-assignments/module2-solution/index.html">Module 2</a>
 		</li>
